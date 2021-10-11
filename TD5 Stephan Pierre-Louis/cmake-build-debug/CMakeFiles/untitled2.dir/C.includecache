@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/exercices.h
+
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/fonctionsUtiles.h
+
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/mesStructures.h
+
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/mesTableaux.c
+stdio.h
+-
+exercices.h
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/exercices.h
+mesStructures.h
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/mesStructures.h
+fonctionsUtiles.h
+C:/Users/steph/CLionProjects/TD3_20/09/TD5 Stephan Pierre-Louis/fonctionsUtiles.h
+
